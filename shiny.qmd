@@ -1,9 +1,6 @@
 ---
 title: "Shiny apps"
 description: Here I show some shiny apps I have developed. Click in the title to see the app.
-output:
-  distill::distill_article:
-    toc: true
 ---
 
 ## [Tree Ferns distribution and diversity](https://avrodrigues.shinyapps.io/tferns/)
