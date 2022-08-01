@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AVR Portifolio",
+    "section": "",
+    "text": "This is my portifolio site"
+  },
+  {
+    "objectID": "shiny.html",
+    "href": "shiny.html",
+    "title": "Shiny apps",
+    "section": "",
+    "text": "This app is part of the paper Expected impacts of climate change on tree ferns distribution and diversity patterns in subtropical Atlantic Forest.\nIn this paper, we show predictions of change in the distribution and diversity of tree ferns in the subtropical Atlantic Forest due to climate change.\nIn the app, you can see the predictions to the distribution of each species (13) and to the diversity in 2050."
+  },
+  {
+    "objectID": "shiny.html#naturalist",
+    "href": "shiny.html#naturalist",
+    "title": "Shiny apps",
+    "section": "naturaList",
+    "text": "naturaList\n\nThis app was made for the 2019 GBIF Ebbe Nielsen Challenge and win the 3rd Prize in this challenge.\nnaturaList app provides tools aiming at classify occurrence records based on the confidence in the species identification. To conduct the classification, the user should have an occurrence dataset downloaded from GBIF, and a list of expert taxonomist in the taxon of interest. The app provides full guideline to conduct the classification and filtering.\nBased on this work, an R package was developed to provide more flexibility on the classification and cleaning of datasets in R. The {naturaList} package is available from CRAN. You can get started here."
+  },
+  {
+    "objectID": "shiny.html#plant-traits-dataset",
+    "href": "shiny.html#plant-traits-dataset",
+    "title": "Shiny apps",
+    "section": "Plant Traits Dataset",
+    "text": "Plant Traits Dataset\n\nIn this app (available only in Portuguese), my objective was to share the images of wood branches and stomata I shoted for my master thesis project.\nMy master thesis was focused in the investigation of plant trait variation in the Atlantic Forest. For that, I collected more that 500 plant individuals, and measure several traits. Some of them were derived from images took from branches and leaves.\nIn the app you can view images of the branches, from panoramic view, which enables to contrast area used for wood, bark and pith; and a zoomed view, you can see the vessels and other wood elementes in more details. In addition, you can see stomata in the upper side of the leaf from several species.\nYou can access the paper and the dataset, which include the images showed in the app, in this link."
+  }
+]
