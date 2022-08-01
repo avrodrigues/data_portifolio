@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "AVR Portifolio"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - shiny.qmd
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    link-external-icon: true
+    link-external-newwindow: true
+    css: styles.css
+    toc: true
+
+
+

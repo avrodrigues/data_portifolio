@@ -1,0 +1,40 @@
+---
+title: "Shiny apps"
+description: Here I show some shiny apps I have developed. Click in the title to see the app.
+output:
+  distill::distill_article:
+    toc: true
+---
+
+## [Tree Ferns distribution and diversity](https://avrodrigues.shinyapps.io/tferns/)
+
+![](img/tree_ferns.png)
+This app is part of the paper [Expected impacts of climate change on tree ferns distribution and diversity patterns in subtropical Atlantic Forest](https://doi.org/10.1016/j.pecon.2021.03.007).
+
+In this paper, we show predictions of change in the distribution and diversity of tree ferns in the subtropical Atlantic Forest due to climate change. 
+
+In the app, you can see the predictions to the distribution of each species (13) and to the diversity in 2050.
+
+
+## [naturaList](https://avrodrigues.shinyapps.io/naturaList/)
+
+![](img/naturalist.png)
+
+This app was made for the [2019 GBIF Ebbe Nielsen Challenge](https://www.gbif.org/pt/news/2mixX9oDrJI2W3AqPFOxI3/wherenext-wins-2019-gbif-ebbe-nielsen-challenge) and win the 3rd Prize in this challenge. 
+
+naturaList app provides tools aiming at classify occurrence records based on the confidence in the species identification. To conduct the classification, the user should have an occurrence dataset downloaded from GBIF, and a list of expert taxonomist in the taxon of interest.
+The app provides full guideline to conduct the classification and filtering. 
+
+Based on this work, an R package was developed to provide more flexibility on the classification and cleaning of datasets in R. The {naturaList} package is available from CRAN. You can get started [here.](https://avrodrigues.github.io/naturaList/)
+
+## [Plant Traits Dataset](https://avrodrigues.shinyapps.io/AF_plant_trait_dataset/)
+
+![](img/plant_trait.png)
+
+In this app (available only in Portuguese), my objective was to share the images of wood branches and stomata I shoted for my master thesis project. 
+
+My master thesis was focused in the investigation of plant trait variation in the Atlantic Forest. For that, I collected more that 500 plant individuals, and measure several traits. Some of them were derived from images took from branches and leaves. 
+
+In the app you can view images of the branches, from panoramic view, which enables to contrast area used for wood, bark and pith; and a zoomed view, you can see the vessels and other wood elementes in more details. In addition, you can see stomata in the upper side of the leaf from several species.
+
+You can access the paper and the dataset, which include the images showed in the app, in this [link](https://doi.org/10.3390/data3020016).
