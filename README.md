@@ -1,4 +1,9 @@
-# shiny_portifolio
-**A repository for a webpage with my shiny apps**
+#  data_portifolio
+**A repository for a webpage with protifolio my works with data**
 
-The intetion of this repository is to have a Quarto website showing my work with shiny apps
+There is some areas to be covered in the repository. Above the works that should be included in the webpage, in order of priority:
+
+- Shiny apps;
+- Data visualization;
+- Datasets;
+- Analysis:
