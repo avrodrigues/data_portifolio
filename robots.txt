@@ -1,1 +1,1 @@
-Sitemap: https://avrodrigues.github.io/shiny_portifolio/sitemap.xml
+Sitemap: https://avrodrigues.github.io/data_portifolio/sitemap.xml
