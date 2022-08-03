@@ -15,7 +15,7 @@ about:
       href: https://github.com/avrodrigues
     - icon: envelope
       text: E-mail
-      href: mailto:rodrigues.arthur.v@gmail.com
+      href: mailto:milz.bea@gmail.com
     
 ---
 <left>
@@ -28,10 +28,14 @@ about:
 </left>
 
 :::{#hero-heading}
-#### Hello, I am **Arthur Rodrigues**!
 
-In this site I show my works in the data world. In menu **Works** you will find categories with some pieces of work I have selected to show for you. 
+#### Olá, eu sou **Arthur Rodrigues**!
 
-**Check it Out!**
+Neste site eu mostro meus trabalhos no mundo dos dados. 
+No menu **Works** você encontra categorias com alguns trabalhos que selecionei para mostrar pra você. 
+
+**Confere lá!**
 
 :::
+
+

@@ -2,13 +2,24 @@ project:
   type: website
 
 website:
-  title: "AVR Portifolio"
+  title: "Portifolio"
   navbar:
     background: primary
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - shiny.qmd
+        text: Arthur Rodrigues
+      - text: Works
+        menu:
+          - shiny.qmd
+  page-footer:
+    left: "Created with [Quarto](https://quarto.org) by [Arthur Rodrigues](https://github.com/avrodrigues)."
+    right:
+      - icon: github
+        href: https://github.com/avrodrigues
+      - icon: twitter
+        href: https://twitter.com/avrodrigues_
+      - icon: linkedin
+        href: https://www.linkedin.com/in/avrodrigues/
 
 
 format:
@@ -16,10 +27,11 @@ format:
     theme:
       light: flatly
       dark: darkly
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     css: styles.css
     toc: true
+    mainfont: 'Source Sans Pro'
 
 
 execute:
