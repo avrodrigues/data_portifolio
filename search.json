@@ -11,21 +11,28 @@
     "href": "index-pt.html",
     "title": "Arthur Rodrigues",
     "section": "",
-    "text": "English  Português\n\n\n\n\nOlá, eu sou Arthur Rodrigues!\nNeste site eu mostro meus trabalhos no mundo dos dados. No menu Works você encontra categorias com alguns trabalhos que selecionei para mostrar pra você.\nConfere lá!"
+    "text": "Olá, eu sou Arthur Rodrigues!\nNeste site eu mostro meus trabalhos no mundo dos dados. No menu Works você encontra categorias com alguns trabalhos que selecionei para mostrar pra você.\nConfere lá!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Arthur Rodrigues",
     "section": "",
-    "text": "English  Português\n\n\n\n\nHello, I am Arthur Rodrigues!\nIn this site I show my works in the data world. In menu Works you will find categories with some pieces of work I have selected to show for you.\nCheck it Out!"
+    "text": "Hello, I am Arthur Rodrigues!\nIn this site I show my works in the data world. In menu Works you will find categories with some pieces of work I have selected to show for you.\nCheck it Out!"
   },
   {
     "objectID": "shiny.html",
     "href": "shiny.html",
     "title": "Shiny apps",
     "section": "",
-    "text": "This app is part of the paper Expected impacts of climate change on tree ferns distribution and diversity patterns in subtropical Atlantic Forest.\nIn this paper, we show predictions of change in the distribution and diversity of tree ferns in the subtropical Atlantic Forest due to climate change.\nIn the app, you can see the predictions to the distribution of each species (13) and to the diversity in 2050."
+    "text": "English\n Português"
+  },
+  {
+    "objectID": "shiny.html#tree-ferns-distribution-and-diversity",
+    "href": "shiny.html#tree-ferns-distribution-and-diversity",
+    "title": "Shiny apps",
+    "section": "Tree Ferns distribution and diversity",
+    "text": "Tree Ferns distribution and diversity\n This app is part of the paper Expected impacts of climate change on tree ferns distribution and diversity patterns in subtropical Atlantic Forest.\nIn this paper, we show predictions of change in the distribution and diversity of tree ferns in the subtropical Atlantic Forest due to climate change.\nIn the app, you can see the predictions to the distribution of each species (13) and to the diversity in 2050."
   },
   {
     "objectID": "shiny.html#naturalist",
@@ -40,5 +47,12 @@
     "title": "Shiny apps",
     "section": "Plant Traits Dataset",
     "text": "Plant Traits Dataset\n\nIn this app (available only in Portuguese), my objective was to share the images of wood branches and stomata I shoted for my master thesis project.\nMy master thesis was focused in the investigation of plant trait variation in the Atlantic Forest. For that, I collected more that 500 plant individuals, and measure several traits. Some of them were derived from images took from branches and leaves.\nIn the app you can view images of the branches, from panoramic view, which enables to contrast area used for wood, bark and pith; and a zoomed view, you can see the vessels and other wood elementes in more details. In addition, you can see stomata in the upper side of the leaf from several species.\nYou can access the paper and the dataset, which include the images showed in the app, in this link."
+  },
+  {
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "Works",
+    "section": "",
+    "text": "Shiny apps\nHere I show some shiny apps I have developed\n\n\nSee more\n\n\n\n\nData Visualization\nHere I will show some data visualization I have made\n\n\nSee more\n\n\n\n\nDatasets\nHere I will show the datasets I have published\n\n\nSee more\n\n\n\n\nData Analysis\nHere I will show some data alisys I have made\n\n\nSee more"
   }
 ]

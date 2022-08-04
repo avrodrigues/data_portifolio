@@ -1,0 +1,21 @@
+.card {
+  margin: 10px;
+  max-width: 300px;
+  min-width: 200px;
+  height: 250px;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.btn {
+  float: right;
+  vertical-align: bottom;
+}
+
+.card-footer {
+  background: transparent;
+  border-top-color: transparent;
+}

@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Here I show some shiny apps I have developed. Click in the title to see the app.">
 
-<title>Portifolio - Shiny apps</title>
+<title>Portifolio - teste_bs_card</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,6 +58,7 @@ ul.task-list{list-style: none;}
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="cards.css">
 </head>
 
 <body class="nav-fixed">
@@ -78,9 +78,15 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link" href="./index.html">Arthur Rodrigues</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./works.html">Works</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-works" role="button" data-bs-toggle="dropdown" aria-expanded="false">Works</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-works">    
+        <li>
+    <a class="dropdown-item" href="./shiny.html">
+ <span class="dropdown-text">Shiny apps</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
@@ -95,29 +101,16 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#tree-ferns-distribution-and-diversity" id="toc-tree-ferns-distribution-and-diversity" class="nav-link active" data-scroll-target="#tree-ferns-distribution-and-diversity"><span>Tree Ferns distribution and diversity</span></a></li>
-  <li><a href="#naturalist" id="toc-naturalist" class="nav-link" data-scroll-target="#naturalist"><span>naturaList</span></a></li>
-  <li><a href="#plant-traits-dataset" id="toc-plant-traits-dataset" class="nav-link" data-scroll-target="#plant-traits-dataset"><span>Plant Traits Dataset</span></a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Shiny apps</h1>
+<h1 class="title">teste_bs_card</h1>
 </div>
 
-<div>
-  <div class="description">
-    Here I show some shiny apps I have developed. Click in the title to see the app.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -129,33 +122,22 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<div class="btn-group" role="group">
-<p><a href="shiny.html"> <button type="button" class="btn btn-primary active btn-sm">English</button></a></p>
-<p><a href="index-pt.html"> <button type="button" class="btn btn-primary btn-sm" disabled="">Português</button></a></p>
+<div class="cell">
+
 </div>
-<section id="tree-ferns-distribution-and-diversity" class="level2">
-<h2 class="anchored" data-anchor-id="tree-ferns-distribution-and-diversity"><a href="https://avrodrigues.shinyapps.io/tferns/">Tree Ferns distribution and diversity</a></h2>
-<p><img src="img/tree_ferns.png" class="img-fluid"> This app is part of the paper <a href="https://doi.org/10.1016/j.pecon.2021.03.007">Expected impacts of climate change on tree ferns distribution and diversity patterns in subtropical Atlantic Forest</a>.</p>
-<p>In this paper, we show predictions of change in the distribution and diversity of tree ferns in the subtropical Atlantic Forest due to climate change.</p>
-<p>In the app, you can see the predictions to the distribution of each species (13) and to the diversity in 2050.</p>
-</section>
-<section id="naturalist" class="level2">
-<h2 class="anchored" data-anchor-id="naturalist"><a href="https://avrodrigues.shinyapps.io/naturaList/">naturaList</a></h2>
-<p><img src="img/naturalist.png" class="img-fluid"></p>
-<p>This app was made for the <a href="https://www.gbif.org/pt/news/2mixX9oDrJI2W3AqPFOxI3/wherenext-wins-2019-gbif-ebbe-nielsen-challenge">2019 GBIF Ebbe Nielsen Challenge</a> and win the 3rd Prize in this challenge.</p>
-<p>naturaList app provides tools aiming at classify occurrence records based on the confidence in the species identification. To conduct the classification, the user should have an occurrence dataset downloaded from GBIF, and a list of expert taxonomist in the taxon of interest. The app provides full guideline to conduct the classification and filtering.</p>
-<p>Based on this work, an R package was developed to provide more flexibility on the classification and cleaning of datasets in R. The {naturaList} package is available from CRAN. You can get started <a href="https://avrodrigues.github.io/naturaList/">here.</a></p>
-</section>
-<section id="plant-traits-dataset" class="level2">
-<h2 class="anchored" data-anchor-id="plant-traits-dataset"><a href="https://avrodrigues.shinyapps.io/AF_plant_trait_dataset/">Plant Traits Dataset</a></h2>
-<p><img src="img/plant_trait.png" class="img-fluid"></p>
-<p>In this app (available only in Portuguese), my objective was to share the images of wood branches and stomata I shoted for my master thesis project.</p>
-<p>My master thesis was focused in the investigation of plant trait variation in the Atlantic Forest. For that, I collected more that 500 plant individuals, and measure several traits. Some of them were derived from images took from branches and leaves.</p>
-<p>In the app you can view images of the branches, from panoramic view, which enables to contrast area used for wood, bark and pith; and a zoomed view, you can see the vessels and other wood elementes in more details. In addition, you can see stomata in the upper side of the leaf from several species.</p>
-<p>You can access the paper and the dataset, which include the images showed in the app, in this <a href="https://doi.org/10.3390/data3020016">link</a>.</p>
+<div class="cell-output-display">
+<div class="card text-white bg-primary" style="max-width: 18rem;">
+<div class="card-body">
+<h3 class="card-title anchored">Deu boa hein</h3>
+<p class="card-text">I num eh que deu msm</p>
+</div>
+<div class="card-footer">
+<a href="#" class="btn btn-danger">Confira comigo no replay</a>
+</div>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -357,7 +339,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     });
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/https:\/\/avrodrigues\.github\.io\/data_portifolio\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
