@@ -7,6 +7,13 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Copy"
+  },
+  {
     "objectID": "index-pt.html",
     "href": "index-pt.html",
     "title": "Arthur Rodrigues",
@@ -49,10 +56,17 @@
     "text": "Plant Traits Dataset\n\nIn this app (available only in Portuguese), my objective was to share the images of wood branches and stomata I shoted for my master thesis project.\nMy master thesis was focused in the investigation of plant trait variation in the Atlantic Forest. For that, I collected more that 500 plant individuals, and measure several traits. Some of them were derived from images took from branches and leaves.\nIn the app you can view images of the branches, from panoramic view, which enables to contrast area used for wood, bark and pith; and a zoomed view, you can see the vessels and other wood elementes in more details. In addition, you can see stomata in the upper side of the leaf from several species.\nYou can access the paper and the dataset, which include the images showed in the app, in this link."
   },
   {
+    "objectID": "works-pt.html",
+    "href": "works-pt.html",
+    "title": "Trabalhos",
+    "section": "",
+    "text": "Shiny Web Apps\nAqui mostro alguns shiny web apps que desenvolvi\n\n\nSee more\n\n\n\n\nVisualização de Dados\nAqui mostro algumas visualizações de dados que tenho feito\n\n\nSee more\n\n\n\n\nDatasets\nAqui mostrarei alguns datasets que eu publiquei\n\n\nSee more\n\n\n\n\nAnalise de Dados\nAqui mostrarei algumas analises de dados que conduzi\n\n\nSee more"
+  },
+  {
     "objectID": "works.html",
     "href": "works.html",
     "title": "Works",
     "section": "",
-    "text": "Shiny apps\nHere I show some shiny apps I have developed\n\n\nSee more\n\n\n\n\nData Visualization\nHere I will show some data visualization I have made\n\n\nSee more\n\n\n\n\nDatasets\nHere I will show the datasets I have published\n\n\nSee more\n\n\n\n\nData Analysis\nHere I will show some data alisys I have made\n\n\nSee more"
+    "text": "Shiny Web Apps\nHere I show some shiny web apps I have developed\n\n\nSee more\n\n\n\n\nData Visualization\nHere I will show some data visualization I have made\n\n\nSee more\n\n\n\n\nDatasets\nHere I will show the datasets I have published\n\n\nSee more\n\n\n\n\nData Analysis\nHere I will show some data analisys I have conducted\n\n\nSee more"
   }
 ]

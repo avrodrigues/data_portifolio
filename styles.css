@@ -10,3 +10,14 @@ body {
   line-height: 1.25;
 }
 
+
+/* (A) FLEX LAYOUT */
+
+
+/* (B) IMAGES */
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border: 8px solid #858581;
+  border-radius: 5px;
+}

@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://avrodrigues.github.io/data_portifolio/about.html</loc>
-    <lastmod>2022-08-04T19:21:30.262Z</lastmod>
+    <lastmod>2022-08-05T00:39:46.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://avrodrigues.github.io/data_portifolio/dataviz.html</loc>
+    <lastmod>2022-08-05T00:39:49.295Z</lastmod>
   </url>
   <url>
     <loc>https://avrodrigues.github.io/data_portifolio/index-pt.html</loc>
-    <lastmod>2022-08-04T19:21:32.514Z</lastmod>
+    <lastmod>2022-08-05T00:39:51.577Z</lastmod>
   </url>
   <url>
     <loc>https://avrodrigues.github.io/data_portifolio/index.html</loc>
-    <lastmod>2022-08-04T19:21:34.606Z</lastmod>
+    <lastmod>2022-08-05T00:39:53.561Z</lastmod>
   </url>
   <url>
     <loc>https://avrodrigues.github.io/data_portifolio/shiny.html</loc>
-    <lastmod>2022-08-04T19:21:36.697Z</lastmod>
+    <lastmod>2022-08-05T00:39:55.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://avrodrigues.github.io/data_portifolio/teste_figure_div.html</loc>
+    <lastmod>2022-08-05T00:39:57.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://avrodrigues.github.io/data_portifolio/works-pt.html</loc>
+    <lastmod>2022-08-05T00:39:59.632Z</lastmod>
   </url>
   <url>
     <loc>https://avrodrigues.github.io/data_portifolio/works.html</loc>
-    <lastmod>2022-08-04T19:21:38.704Z</lastmod>
+    <lastmod>2022-08-05T00:40:01.901Z</lastmod>
   </url>
 </urlset>
