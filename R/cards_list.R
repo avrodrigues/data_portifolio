@@ -8,7 +8,7 @@ en_cards <- list(
   card_2 = list(
     text =  "Here I will show some data visualization I have made",
     title = "Data Visualization",
-    href = "#",
+    href = "dataviz.html",
     disabled = FALSE
   ),
   card_3 = list(
