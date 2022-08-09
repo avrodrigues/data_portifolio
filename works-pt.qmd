@@ -1,0 +1,43 @@
+---
+title: "Trabalhos"
+lang: pt
+format:
+  html:
+    css: cards.css
+---
+
+::: {.btn-group role="group"}
+<a href="works.html"> <button type="button" class="btn btn-primary  btn-sm">English</button></a> 
+
+<a href="works-pt.html"> <button type="button" class="btn btn-primary active btn-sm">Português</button></a>
+:::
+
+
+```{r}
+#| results: asis
+#| echo: false
+
+source("R/bs_card.R")
+source("R/cards_list.r", encoding = "UTF-8")
+
+cards_list <- pt_cards
+
+cards_tags <- 
+purrr::map(cards_list, function(card){
+  bs_card(
+  font_color = "white",
+  status = "primary",
+  title_text =  card$title, 
+  body_text = card$text, 
+  btn_text = "See more", 
+  btn_href = card$href,
+  disabled = card$disabled
+)
+})|> 
+  tagList()
+
+card_container <- div(class = "flex-container")
+tagAppendChild(card_container, cards_tags)
+           
+
+```

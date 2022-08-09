@@ -1,0 +1,14 @@
+{
+  "hash": "878e6a1b1c08e8818668fbc810c59510",
+  "result": {
+    "markdown": "---\ntitle: \"Untitled\"\nformat: \n  html: \n    css: figure_icon.css\nfilters:\n  - lightbox\nlightbox:\n  match: auto\n  effect: fade\n  desc-position: right\n  loop: false\n---\n\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/tree/main/2021/week14><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week08/dubois.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/tree/main/2021/week14><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week17/netflix.png)\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

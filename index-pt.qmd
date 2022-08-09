@@ -16,16 +16,15 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:milz.bea@gmail.com
-    
 ---
-<left>
 
-::: {.btn-group role="group" aria-label="About"}
-<a href="index.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> 
-<a href="index-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a>
+
+::: {.btn-group role="group"}
+<a href="index.html"> <button type="button" class="btn btn-primary btn-sm">English</button></a> 
+
+<a href="index-pt.html"> <button type="button" class="btn btn-primary active btn-sm">Português</button></a>
 :::
 
-</left>
 
 :::{#hero-heading}
 
@@ -37,5 +36,3 @@ No menu **Works** você encontra categorias com alguns trabalhos que selecionei 
 **Confere lá!**
 
 :::
-
-

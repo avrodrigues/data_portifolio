@@ -8,9 +8,9 @@ website:
     right:
       - href: index.qmd
         text: Arthur Rodrigues
-      - text: Works
-        menu:
-          - shiny.qmd
+      - href: works.qmd
+
+
   page-footer:
     left: "Created with [Quarto](https://quarto.org) by [Arthur Rodrigues](https://github.com/avrodrigues)."
     right:

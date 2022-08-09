@@ -1,0 +1,23 @@
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+  border: 1px solid #040400;
+  border-radius: 5px;
+}
+
+.image-icon .bi-code-slash {
+  color: #363632;
+  position:absolute;
+  background: #FEFEFA99;
+  left: 92%;
+  top: 5%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #686864;
+}
+
+.bi-code-slash {
+  float: right;
+  padding: 5px;
+}

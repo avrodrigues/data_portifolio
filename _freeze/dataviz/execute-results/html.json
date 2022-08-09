@@ -1,0 +1,16 @@
+{
+  "hash": "610640d6986f567deebaa2cef22490a9",
+  "result": {
+    "markdown": "---\ntitle: \"Data Visualization\"\nlang: en\npage-layout: full\nformat: \n  html: \n    css: figure_icon.css\nfilters:\n  - lightbox\nlightbox:\n  match: auto\n  effect: fade\n  desc-position: right\n  loop: false\n---\n\n\n\n\n::: {.grid}\n\n::: {.g-col-12 .g-col-md-6}\n\n\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week14/makeup_shades.R><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week14/makeup.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week07/student_debt.Rmd><i class='bi bi-code-slash'></i></a>\n![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week07/student_debt.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week17/netflix.R><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week17/netflix.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week08/du_bois_challenge.Rmd><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week08/dubois.png)\n\n:::\n\n\n:::\n\n::: {.g-col-12 .g-col-md-6}\n\n\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week04/kenya.R><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week04/kenya_crops.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week15/br_soja.R><i class='bi bi-code-slash'></i></a>\n![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week15/br_soja.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2020/week50/01_get_data_and_plot.R><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2020/week50/latin_women.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2020/week48/01_clean_plot.R><i class='bi bi-code-slash'></i></a>\n![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2020/week48/Chart_v2.png)\n\n:::\n:::{.figure}\n\n<a href=https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week02/transit_cost.R><i class='bi bi-code-slash'></i></a>\n![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week02/transit.png)\n\n:::\n\n\n\n:::\n\n:::\n\n\n\n\n\n\n\n",
+    "supporting": [
+      "dataviz_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

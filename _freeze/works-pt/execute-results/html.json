@@ -1,0 +1,14 @@
+{
+  "hash": "a595d0466b3603bb2119976792874932",
+  "result": {
+    "markdown": "---\ntitle: \"Trabalhos\"\nlang: pt\nformat:\n  html:\n    css: cards.css\n---\n\n\n::: {.btn-group role=\"group\"}\n<a href=\"works.html\"> <button type=\"button\" class=\"btn btn-primary  btn-sm\">English</button></a> \n\n<a href=\"works-pt.html\"> <button type=\"button\" class=\"btn btn-primary active btn-sm\">Português</button></a>\n:::\n\n\n\n::: {.cell-output-display}\n```{=html}\n<div class=\"flex-container\">\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Shiny Web Apps</h3>\n<p class=\"card-text\">Aqui mostro alguns shiny web apps que desenvolvi</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"shiny.html\" class=\"btn btn-danger\">See more</a>\n</div>\n</div>\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Visualização de Dados</h3>\n<p class=\"card-text\">Aqui mostro algumas visualizações de dados que tenho feito</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"dataviz.html\" class=\"btn btn-danger\">See more</a>\n</div>\n</div>\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Datasets</h3>\n<p class=\"card-text\">Aqui mostrarei alguns datasets que eu publiquei</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger disabled\">See more</a>\n</div>\n</div>\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Analise de Dados</h3>\n<p class=\"card-text\">Aqui mostrarei algumas analises de dados que conduzi</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger disabled\">See more</a>\n</div>\n</div>\n</div>\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bd38715b89257586b8e2ad940fa1314f",
+  "result": {
+    "markdown": "---\ntitle: \"Arthur Rodrigues\"\ncomments: false\nimage: img/ID_2.png\nabout:\n  template: trestles\n  image-width: 15em\n  image-shape: round\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://twitter.com/avrodrigues_\n    - icon: github\n      text: Github\n      href: https://github.com/avrodrigues\n    - icon: envelope\n      text: E-mail\n      href: mailto:milz.bea@gmail.com\nformat:\n  html:\n    css: cards.css\n---\n\n<left>\n\n::: {.btn-group role=\"group\" aria-label=\"About\"}\n<a href=\"index.html\"> <button type=\"button\" class=\"btn btn-primary me-md-2 btn-sm\">English</button></a> \n<a href=\"index-pt.html\"> <button type=\"button\" class=\"btn btn-primary me-md-2 btn-sm\">Português</button></a>\n:::\n\n</left>\n\n:::{#hero-heading}\n\n#### Olá, eu sou **Arthur Rodrigues**!\n\nNeste site eu mostro meus trabalhos no mundo dos dados. \nNo menu **Works** você encontra categorias com alguns trabalhos que selecionei para mostrar pra você. \n\n**Confere lá!**\n\nEu construi minha experiencia em dados dentro da academia. Há seis anaos eu atuo em pesquisa científica, na área de Ecologia. Eu tenho experiência em construção conjunto de dados e publicação de dados abertos; limpeza, analises e visualização de dados.\n\nSou programador experiente em R. Sou autor de pacotes de R, crio sites (como esse) usando o R. Também tenho experiência em criar Shiny apps (dashboards) e já fui premiado por um desses apps. \n\n:::\n\n\n::: {.caaaas}\n\n::: {.cell}\n\n:::\n\n::: {.cell-output-display}\n```{=html}\n<div class=\"flex-container\">\n<div class=\"col-3\">\n<div class=\"card bg-primary\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Shiny apps</h3>\n<p>Here I show some shiny apps I have developed</p>\n<a>\n<button class=\"btn btn-danger btn-sm\">Clique Aqui!</button>\n</a>\n</div>\n</div>\n</div>\n<div class=\"col-3\">\n<div class=\"card bg-info\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Titulo 2</h3>\n<p>teste de cartão com texto que diz alguma coisa sobre o que voce deve ver aqui</p>\n<a>\n<button class=\"btn btn-danger btn-sm\">Clique Aqui!</button>\n</a>\n</div>\n</div>\n</div>\n<div class=\"col-3\">\n<div class=\"card bg-dark\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Titulo 2</h3>\n<p>teste de cartão com texto que diz alguma coisa sobre o que voce deve ver aqui</p>\n<a>\n<button class=\"btn btn-danger btn-sm\">Clique Aqui!</button>\n</a>\n</div>\n</div>\n</div>\n</div>\n```\n:::\n\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2048610b44064ba59e18c55742e81e51",
+  "result": {
+    "markdown": "---\ntitle: \"teste_bs_card\"\nformat:\n  html:\n    css: cards.css\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell-output-display}\n```{=html}\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Deu boa hein</h3>\n<p class=\"card-text\">I num eh que deu msm</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger\">Confira comigo no replay</a>\n</div>\n</div>\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

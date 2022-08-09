@@ -1,0 +1,112 @@
+---
+title: "Data Visualization"
+lang: en
+page-layout: full
+format: 
+  html: 
+    css: figure_icon.css
+filters:
+  - lightbox
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+```{r}
+#| results: asis
+#| echo: false
+
+source("R/figure_quarto.R")
+
+# makeup shades
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week14/makeup.png)",
+  'https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week14/makeup_shades.R'
+)
+
+# Students debts
+figure_quarto(
+  "![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week07/student_debt.png)",
+  'https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week07/student_debt.Rmd'
+)
+
+# Netflix
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week17/netflix.png)",
+  "https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week17/netflix.R"
+)
+
+# Dubois Challenge
+
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week08/dubois.png)",
+  "https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week08/du_bois_challenge.Rmd"
+  
+)
+
+
+```
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+```{r}
+#| results: asis
+#| echo: false
+
+
+#Kenya Crops
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2021/week04/kenya_crops.png)",
+  'https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week04/kenya.R'
+)
+
+# Soja brasil
+figure_quarto(
+  "![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week15/br_soja.png)",
+  'https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week15/br_soja.R'
+)
+
+# latin women of the year
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2020/week50/latin_women.png)", 
+  "https://github.com/avrodrigues/Tidy_tuesday/blob/main/2020/week50/01_get_data_and_plot.R"
+)
+
+# Washinton hikes
+
+figure_quarto(
+  "![](https://raw.githubusercontent.com/avrodrigues/Tidy_tuesday/main/2020/week48/Chart_v2.png)", 
+  "https://github.com/avrodrigues/Tidy_tuesday/blob/main/2020/week48/01_clean_plot.R"
+
+)
+
+# transit costs
+
+figure_quarto(
+  "![](https://github.com/avrodrigues/Tidy_tuesday/raw/main/2021/week02/transit.png)",
+  "https://github.com/avrodrigues/Tidy_tuesday/blob/main/2021/week02/transit_cost.R"
+)
+
+```
+
+
+:::
+
+:::
+
+
+
+
+
+
+

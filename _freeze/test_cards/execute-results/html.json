@@ -1,0 +1,16 @@
+{
+  "hash": "e977d92491b7a1f42b75b5d006c216b9",
+  "result": {
+    "markdown": "---\ntitle: \"Works\"\nformat:\n  html:\n    css: cards.css\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell-output-display}\n```{=html}\n<div class=\"flex-container\">\n<div class=\"card text-white bg-primary\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Shiny apps</h3>\n<p class=\"card-text\">Here I show some shiny apps I have developed</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger\">Veja mais</a>\n</div>\n</div>\n<div class=\"card text-white bg-info\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Titulo 2</h3>\n<p class=\"card-text\">teste de cartão com texto que diz alguma coisa sobre o que voce deve ver aqui</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger\">Veja mais</a>\n</div>\n</div>\n<div class=\"card text-white bg-dark\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Titulo 3</h3>\n<p class=\"card-text\">teste de cartão com texto que diz alguma coisa sobre o que voce deve ver aqui</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger\">Veja mais</a>\n</div>\n</div>\n<div class=\"card text-white bg-warning\" style=\"max-width: 18rem;\">\n<div class=\"card-body\">\n<h3 class=\"card-title\">Titulo 4</h3>\n<p class=\"card-text\">teste de cartão com texto que diz alguma coisa sobre o que voce deve ver aqui</p>\n</div>\n<div class=\"card-footer\">\n<a href=\"#\" class=\"btn btn-danger\">Veja mais</a>\n</div>\n</div>\n</div>\n```\n:::\n",
+    "supporting": [
+      "test_cards_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
