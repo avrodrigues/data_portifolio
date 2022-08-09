@@ -19,7 +19,8 @@ jobs:
       - name: install packages
         shell: Rscript {0}
         run: |
-          install.packages("rmarkdown")
+          install.packages(c("remotes", "rmarkdown", "knitr"))
+          remotes::install_local(dependencies = TRUE)
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
